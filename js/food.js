@@ -27,7 +27,6 @@ class Food{
 
 
     deductFoodStock(){
-        getFoodStock()-1
     }
 
     display(){
